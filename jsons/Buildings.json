@@ -1,0 +1,8 @@
+{
+        "name": "Drug Manufactury",
+        "hurryCostModifier": 35,
+        "gold": 8,
+        "food": 4,
+        "requiredNearbyImprovedResources": ["Codeine", "Fentanyl", "Hydrocodone", "Hydromorphone", "Meperidine", "Morphine", "Oxycodone", "Tramadol"],
+        "requiredTech": "Fertilizer"
+},
