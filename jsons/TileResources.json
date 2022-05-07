@@ -1,0 +1,66 @@
+[
+	{
+		"name": "Codeine",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Fentanyl",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Hydrocodone",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Hydromorphone",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Meperidine",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Morphine",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Oxycodone",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+{
+		"name": "Tramadol",
+		"resourceType": "Luxury",
+		"happiness": 5
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill"],
+		"improvement": "Farm",
+		"improvementStats": {"happiness": 1},
+	},
+]
